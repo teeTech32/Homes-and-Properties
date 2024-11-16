@@ -90,7 +90,7 @@ function SignUp() {
                     </div>
             </div>
               <div class="items-center space-x-16 ">
-                <button onClick={()=> navigate('/sign-in')} class="btn btn-md bg-green-500 text-white font-bold ml-4 hover:text-black">
+                <button onClick={()=> navigate('/sign-in')} class="btn btn-md bg-green-500 text-white font-bold ml-3 hover:text-black">
                   Sign In
                 </button>
                 <button class="btn btn-md bg-green-500 text-white font-bold hover:text-black ">
