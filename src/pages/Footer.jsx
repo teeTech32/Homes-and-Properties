@@ -40,7 +40,7 @@ const Footer = () => {
           <div className='py-8 px-4'>
             <h1 className=' text-xl lg:text-2xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3'>
              ABCProperties</h1>
-            <p className='lg:text-xl'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi praesentium cupiditate inventore expedita officiis voluptatibus earum animi nostrum illo quas.</p>
+            <p className='lg:text-xl'>Every property holds a story, and every sale builds a dream. In real estate, we don't just sell homes—we create opportunities, foster communities, and open doors to new beginnings. Your vision is our mission. Let's turn aspirations into addresses and dreams into deeds. Together, we build more than homes—we build futures.</p>
           </div>
           <div className='grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10'>
             <div>
