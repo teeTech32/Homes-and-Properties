@@ -7,32 +7,32 @@ const TestimonialData  = [
  
   {
     id: 1,
-    name: "Victoria Bass",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel nulla quia modi earum at nobis mollitia iste voluptatem nemo fuga asperiores iusto esse dicta nesciunt repellendus voluptate aut, dolorum quas!",
+    name: "Victoria B.",
+    text: "Working with this team was a dream! They listened to my needs, found the perfect home, and made the process seamless. Their professionalism and dedication truly set them apart. Highly recommend!",
     img: "https://picsum.photos/101/101"
   },
   {
     id: 2,
-    name: "Chibuzor Emeka",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel nulla quia modi earum at nobis mollitia iste voluptatem nemo fuga asperiores iusto esse dicta nesciunt repellendus voluptate aut, dolorum quas!",
+    name: "Chibuzor E.",
+    text: "I couldn't be happier with my experience. The agent was knowledgeable, patient, and always available to answer my questions. They turned a stressful process into a smooth and enjoyable journey. Thank you!",
     img: "https://picsum.photos/102/102"
   },
   {
     id: 3,
-    name: "Mariam Lawal",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel nulla quia modi earum at nobis mollitia iste voluptatem nemo fuga asperiores iusto esse dicta nesciunt repellendus voluptate aut, dolorum quas!",
+    name: "Mariam L.",
+    text: "From start to finish, the service was exceptional. They went above and beyond to ensure I found the right property. Their attention to detail and commitment to client satisfaction is unmatched. Five stars!",
     img: "https://picsum.photos/103/103"
   },
   {
     id: 4,
     name: "James Brown",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel nulla quia modi earum at nobis mollitia iste voluptatem nemo fuga asperiores iusto esse dicta nesciunt repellendus voluptate aut, dolorum quas!",
+    text: "The team made selling my home effortless. They provided expert advice, marketed my property effectively, and negotiated a great deal. I felt supported every step of the way. Outstanding service!",
     img: "https://picsum.photos/104/104"
   },
    {
     id: 5,
     name: "Olamide Williams",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel nulla quia modi earum at nobis mollitia iste voluptatem nemo fuga asperiores iusto esse dicta nesciunt repellendus voluptate aut, dolorum quas!",
+    text: "Buying my first home was a breeze thanks to this amazing team. They guided me through every detail, explained everything clearly, and made me feel confident in my decision. I'm so grateful!",
     img: "https://picsum.photos/105/105"
   },
 
@@ -87,7 +87,7 @@ const Tesmonials = () => {
             <p class="font-semibold text-white text-xl lg:font-bold lg:text-3xl">Our Customers' Feedbacks</p>
             <h1 class="text-xl font-bold lg:text-2xl">Testimonials</h1>
             <p class="font-semibold lg:text-xl text-black ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut commodi, dolor illum temporibus iusto enim.
+              Curious about what our customers have to say? Their feedback speaks volumes! We take pride in delivering great experiences. Check out their reviews below!
             </p>
           </div>
           <div>
