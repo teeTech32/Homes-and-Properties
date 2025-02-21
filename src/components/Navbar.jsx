@@ -15,7 +15,7 @@ function Navbar() {
                 <FaHouseUser class="text-white font-bold text-4xl lg:text-5xl hover:text-green-500 " />
                 <h4 class="text-white font-bold hover:text-green-500 lg:text-xl">Home</h4>
               </div>
-              <div class=' group cursor-pointer absolute top-6 md:top-5 right-[42%] md:right-[45%] flex justify-center' onClick={() => navigate('/offer')}>
+              <div class=' group cursor-pointer absolute top-6 md:top-5 right-[40%] md:right-[45%] flex justify-center' onClick={() => navigate('/offer')}>
                 <MdLocalOffer class="text-white font-bold text-4xl lg:text-5xl hover:text-green-500 "/>
                 <h4 class="text-white font-bold hover:text-green-500 lg:text-xl">Offers</h4>
               </div>
